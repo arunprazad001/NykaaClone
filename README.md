@@ -6,7 +6,7 @@ The Nykaa website deals with the fashion related products built along with the h
 
 Languages used : HTML | CSS | JavaScript 
 </br>
-Deployed Link : https://chimerical-chimera-b05f10.netlify.app/      https://nykaacloneproject1.netlify.app/
+Deployed Link :  https://nykaacloneproject1.netlify.app/
 </br>
 </br>
 **Landing Page :** 
