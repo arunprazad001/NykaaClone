@@ -6,7 +6,7 @@ The Nykaa website deals with the fashion related products built along with the h
 
 Languages used : HTML | CSS | JavaScript 
 </br>
-Deployed Link :  https://nykaacloneproject1.netlify.app/
+Deployed Link :  https://664def2a93cb4b082e4d6cda--magenta-crumble-66103a.netlify.app/
 </br>
 </br>
 **Landing Page :** 
